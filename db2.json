@@ -3,12 +3,12 @@
     {
       "title": "Chausette 1",
       "description": "A comfortable and stylish sock.",
-      "imageUrl": "/assets/images/socks_blue.jpg"
+      "imageUrl": "@//assets/images/socks_blue.jpg"
     },
     {
       "title": "Chausette 2",
       "description": "Perfect for any occasion.",
-      "imageUrl": "/assets/images/socks_green.jpg"
+      "imageUrl": "@//assets/images/socks_green.jpg"
     }
   ]
 }
