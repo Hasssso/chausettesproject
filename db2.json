@@ -1,15 +1,12 @@
-{
-  "chausettes": [
-    {
-      "title": "Chausette 1",
-      "description": "A comfortable and stylish sock.",
-      "imageUrl": "@//assets/images/socks_blue.jpg"
-    },
-    {
-      "title": "Chausette 2",
-      "description": "Perfect for any occasion.",
-      "imageUrl": "@//assets/images/socks_green.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Cozy Socks",
+    "price": 15.99,
+    "description": "Soft and warm socks perfect for winter.",
+    "image": "cozy_socks.jpg"
+  },
+  ...
+]
+
 
